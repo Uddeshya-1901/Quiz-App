@@ -7,17 +7,17 @@ const About = () => {
       <h1>About</h1>
       <p>Revision Portal for Software Testing</p>
       <p>
-        <i>- by Saurabh Raj</i>
+        <i>- by Uddeshya Raj</i>
       </p>
       <br />
       <p>
-        <strong>Email: </strong> <a href="mailto: me4saurabh4u@gmail.com">me4saurabh4u@gmail.com</a>
+        <strong>Email: </strong> <a href="mailto: uddeshya1901@gmail.com">uddeshya1901@gmail.com</a>
       </p>
       <p>
         <strong>
           LinkedIn:{" "}
         </strong>
-          <a href="https://www.linkedin.com/in/saurabhcu/" target="_blank">
+          <a href="https://www.linkedin.com/in/uddeshya-raj-17b589200/" target="_blank">
             Link
           </a>
       </p>

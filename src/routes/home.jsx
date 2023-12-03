@@ -13,7 +13,7 @@ const Home = () => {
   const handleToggle = () => {
     let newToggle = !toggle;
     setToggle(newToggle);
-    console.log('I am clicke');
+    console.log('I am clicked');
   }
 
   function toggleCSS() {

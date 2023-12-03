@@ -23,7 +23,7 @@ const Navbar = () => {
           </a>
         </li>
         <li>
-          <a href="https://github.com/saurabhraj123" target="_blank">
+          <a href="https://github.com/Uddeshya-1901" target="_blank">
             Git Hub
           </a>
         </li>
